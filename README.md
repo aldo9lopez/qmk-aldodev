@@ -1,2 +1,2 @@
 # qmk-aldodev
-keymaps for slpits keyboards
+keymaps for splits keyboards
